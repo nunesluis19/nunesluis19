@@ -16,7 +16,7 @@ Desenvolvedor em formação, focado em Back-End com Java ☕
 
 ---
 
-### 💼 Tecnologias & Ferramentas que estou estduando
+### 💼 Tecnologias & Ferramentas que estou estudando
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) 
